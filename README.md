@@ -28,7 +28,7 @@ python3 Brute_Force.py -g Account@gmail.com -p Password_Single
 
 ## BruteForce Hotmail Attack
 ```bash
-python3 Brute_Force.py -t Account@hotmail.com -l File_list
+
 
 python3 Brute_Force.py -t Account@hotmail.com -p Password_Single
 ```
@@ -61,3 +61,4 @@ python3 Brute_Force.py -n Account_Netflix -l File_list -X proxy-list.txt
 
 
 
+ 
